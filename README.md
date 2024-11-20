@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Web Blog<br><br>🌱 I’m currently learning I'm currently deepening my knowledge of Linux systems to enhance my development workflow and exploring full-stack web development, focusing on front-end frameworks and back-end technologies, including MySQL databases.</p>
+<p align="left">🔭 I’m currently working on Web Blog<br><br>🌱 I am deepening my knowledge of Linux systems to optimize my development workflow, while also exploring full-stack web development, with a focus on front-end frameworks and back-end technologies, including MySQL databases..</p>
 
 ###
 
