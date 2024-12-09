@@ -40,9 +40,7 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Louisneval/Louisneval/output/snake.svg" alt="Snake animation" />
 
 ###
 
